@@ -1,13 +1,12 @@
 # Ful Stack Data Engineer Portfolio
 ----
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Machine learning
 
-## Header 2
+### Fraud Detection
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-### Header 3
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rakesh-shah/fraud_detection)
 
+<center><img src="assets/img/fraud_detection.jpg"/></center>
